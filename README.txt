@@ -8,6 +8,6 @@ Juan I. Bravo, Eyael Tewelde, Christina D. King, Joanna Bons, Samah Shah, Jacob 
 
 The code is arranged by major analysis carried out:
 	# 1_Public_RNAseq_Meta-Analysis                 : see README_Meta-analysis.txt
-	# 2_RNAseq_Analysis            	 				: see README_Alu_OE_RNASeq.txt
-	# 3_Mass_Spec_Analyses    	 					: see README_Alu_OE_Mass_Spectrometry.txt
-	# 4_Functional_Data_Analyses    	 			: see README_Functional_Data_Analysis.txt
+	# 2_RNAseq_Analysis            	 		: see README_Alu_OE_RNASeq.txt
+	# 3_Mass_Spec_Analyses    	 		: see README_Alu_OE_Mass_Spectrometry.txt
+	# 4_Functional_Data_Analyses    	 	: see README_Functional_Data_Analysis.txt
